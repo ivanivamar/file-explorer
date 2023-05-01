@@ -1,0 +1,21 @@
+C:\Users\ivani\repos\file-explorer\File Explorer\bin\Debug\net7.0-windows\File Explorer.exe
+C:\Users\ivani\repos\file-explorer\File Explorer\bin\Debug\net7.0-windows\File Explorer.deps.json
+C:\Users\ivani\repos\file-explorer\File Explorer\bin\Debug\net7.0-windows\File Explorer.runtimeconfig.json
+C:\Users\ivani\repos\file-explorer\File Explorer\bin\Debug\net7.0-windows\File Explorer.dll
+C:\Users\ivani\repos\file-explorer\File Explorer\bin\Debug\net7.0-windows\File Explorer.pdb
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\File Explorer.csproj.AssemblyReference.cache
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\File Explorer_MarkupCompile.cache
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\File Explorer_MarkupCompile.lref
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\File Explorer.g.resources
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\File Explorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\File Explorer.AssemblyInfoInputs.cache
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\File Explorer.AssemblyInfo.cs
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\File Explorer.csproj.CoreCompileInputs.cache
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\File Explorer.dll
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\refint\File Explorer.dll
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\File Explorer.pdb
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\File Explorer.genruntimeconfig.cache
+C:\Users\ivani\repos\file-explorer\File Explorer\obj\Debug\net7.0-windows\ref\File Explorer.dll
